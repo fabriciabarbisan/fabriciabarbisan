@@ -23,3 +23,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 </p>
+
+**⭐ GitHub Stats**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciabarbisan)](https://github.com/anuraghazra/github-readme-stats)
